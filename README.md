@@ -1,4 +1,3 @@
-Project-I-and-II-Data-Analysis-Projects
 Abdelrahman Maged Alaa | 24-101540 
 
 # Project 2: Impact of Payment Methods on Daily Spending in Egypt
